@@ -1,5 +1,5 @@
 # Hi there, I'm HIKARU 👋
-I’m a **Bachelor of Computer Science (BCS) student specializing in Artificial Intelligence**, currently in my **2nd year** at **IIMS College, Nepal**, affiliated with **Taylor's University, Malaysia**.
+I’m a **Bachelor of Computer Science (BCS) student specializing in Artificial Intelligence**, currently in my **2nd year**.
 I'm deeply interested in building intelligent systems that can learn, reason, and interact. My long-term goal is to create my own **agentic AI systems**, especially for language-based and autonomous applications.
 <!--
 I'm passionate about coding, problem-solving, and tech.
